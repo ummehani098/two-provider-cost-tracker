@@ -1,0 +1,13 @@
+{
+    "timestamp": "2026-11-20T20:40:36.804404+00:00",
+    "results": [
+        {
+            "provider": "Groq",
+            "model": "openai/gpt-oss-120b",
+            "reply": "Artificial intelligence (AI) is computer software that can learn, reason, and make decisions like a human would, often by recognizing patterns in data. Real‑world examples: 1️⃣ Voice assistants such as Siri or Alexa that understand speech and answer questions. 2️⃣ Recommendation engines on Netflix or Amazon that suggest movies or products you might like. 3️⃣ Self‑driving cars that perceive the road, plan routes, and control the vehicle without a driver.",
+            "input_tokens": 94,
+            "output_tokens": 467,
+            "cost_usd": 0.0002943
+        }
+    ]
+}
